@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AdeleyeAnne
-- 👀 I’m interested in Data Analysis role
+- 👀 I’m interested in Data Analyst role
 - 🌱 I’m currently learning SQL and phyton 
-- 💞️ I’m looking to collaborate on Data Analysis 
-- 📫 How to reach me on https://www.linkedin.com/in/anne-adeleye-6a9733279
+- 💞️ I’m looking to collaborate on Data Analysis project 
+- 📫 How to reach me on 🔗 https://www.linkedin.com/in/adeleyeanne
+  🔗 https://x.com/AdeleyeAnne?t=-0j4bV8sPPBFRom21HJ0aA&s=09
 - 😄 Pronouns: She
 - ⚡ Fun fact: Always eager to learn something new
 
