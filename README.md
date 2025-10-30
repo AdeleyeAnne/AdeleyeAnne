@@ -1,4 +1,4 @@
-## Hi there 👋,  I'm Anne Adeleye  
+## Hi there 👋,  I'm Anne Adeleye, welcome to my Analytics world**  
 
 **Dedicated and growth-driven Data Analyst** with an MBA and a strong passion for continuous learning — transforming data into actionable insights that drive business decisions.  
 
