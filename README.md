@@ -41,8 +41,8 @@ As a certified Data Analyst (LinkedIn, Coursera, AltSchool Africa, Tech4Dev, Afr
 
 ### 🧠 Featured Projects  
 
-🔹 [Sales Analytics Dashboard](https://github.com/AdeleyeAnne/Sales-Analytics-Dashboard)  
-Interactive Power BI dashboard analyzing regional and product-level sales performance.  
+🔹 [Amazon Product Review Analysis](https://github.com/AdeleyeAnne/DSA-CAPSTONE-PROJECT.)  
+RetailTech is a company that provides e-commerce analytics solutions to sellers on platforms like Amazon . This project aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement
 
 🔹 [HR Analytics Report](https://github.com/AdeleyeAnne/HR-Analytics-Dashboard)  
 Comprehensive HR insights showing workforce demographics, turnover rate, and performance analysis.  
@@ -50,7 +50,7 @@ Comprehensive HR insights showing workforce demographics, turnover rate, and per
 🔹 [Supply Chain Insights](https://github.com/AdeleyeAnne/SupplyChain-Insights)  
 Analyzed supply data to uncover efficiency bottlenecks and optimize logistics.
 
--  [Kultra Mega Stores Inventory Analysis](https://github.com/AdeleyeAnne/CAPSTONE-PROJECT-SQL)
+-  [Kultra Mega Stores Inventory Analysis (SQL)](https://github.com/AdeleyeAnne/CAPSTONE-PROJECT-SQL)
 This project aims at analyzing store and logistics inventory by importing dataset from excel file containing order data from 2009 to 2012 using structure query language (SQL), and analyzing the various parameters in the dataset i seek to extract business insights.which will enable me tell a compelling story from the insight and present key findings
 
 ---
