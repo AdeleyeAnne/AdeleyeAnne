@@ -47,11 +47,14 @@ RetailTech is a company that provides e-commerce analytics solutions to sellers 
 🔹 [HR Analytics Report](https://github.com/AdeleyeAnne/HR-Analytics-Dashboard)  
 Comprehensive HR insights showing workforce demographics, turnover rate, and performance analysis.  
 
-🔹 [Supply Chain Analysis (Excel)](https://github.com/AdeleyeAnne/Supply-chain-Excel-Analysis-)  
-Analyzed supply data to uncover efficiency bottlenecks and optimize logistics.
+✅ [Supply Chain Analysis (Excel)](https://github.com/AdeleyeAnne/Supply-chain-Excel-Analysis-)  
+This project is a practical hands-on analysis of a supply chain dataset. It explores key metrics such as inventory and sales performance, shipping and logistics services and manufacturing and suppliers efficienc
 
 ✅ [Kultra Mega Stores Inventory Analysis (SQL)](https://github.com/AdeleyeAnne/CAPSTONE-PROJECT-SQL)
 This project aims at analyzing store and logistics inventory by importing dataset from excel file containing order data from 2009 to 2012 using structure query language (SQL), and analyzing the various parameters in the dataset i seek to extract business insights.which will enable me tell a compelling story from the insight and present key findings
+
+✅ [Kultra Mega Stores Inventory Analysis SQL)](https://github.com/AdeleyeAnne/CAPSTONE-PROJECT-SQL)
+This project aims at analyzing store and logistics inventory by importing dataset from excel file containing order data from 2009 to 2012 using structure query language (SQL), and analyzing the various parameters in the dataset
 
 ---
 
