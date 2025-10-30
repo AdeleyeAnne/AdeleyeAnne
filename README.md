@@ -1,4 +1,4 @@
-## Hi there 👋,  I'm Anne Adeleye, welcome to my Analytics world**  
+## Hi there 👋,  I'm Anne Adeleye, welcome to my Analytics world  
 
 **Dedicated and growth-driven Data Analyst** with an MBA and a strong passion for continuous learning — transforming data into actionable insights that drive business decisions.  
 
@@ -52,8 +52,10 @@ The project aims analyzing inventory management and improve profit margins by an
 
 ✅ [Kultra Mega Stores Inventory Analysis SQL)](https://github.com/AdeleyeAnne/CAPSTONE-PROJECT-SQL)
 This project aims at analyzing store and logistics inventory by importing dataset from excel file containing order data from 2009 to 2012 using structure query language (SQL), and analyzing the various parameters in the dataset
+
 ✅ [Furniture sales performance (Excel)](https://github.com/AdeleyeAnne/Furniture-sales-performance)
 This project analysis FURNITURE SALES PERFORMANCE (2017 VRS 2016), AN ANALYSIS COMPARING SALES, PROFIT AND TRENDShttps://github.com/AdeleyeAnne/Furniture-sales-performance
+
 ✅ [HR Analytics Report](https://github.com/AdeleyeAnne/HR-Attrition-Analytics-)  
 Comprehensive HR insights showing workforce demographics, turnover rate, and performance analysis.  
 
