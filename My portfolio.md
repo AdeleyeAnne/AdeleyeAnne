@@ -39,7 +39,10 @@ As a certified Data Analyst (LinkedIn, Coursera, AltSchool Africa, Tech4Dev, Afr
 - Designed KPI dashboards to help review and Optimize Inventory Management
 - Derived insight that helps make data-driven decisions that improve operational efficiency, reduce delays, optimize shipping costs, and enhance overall customer satisfaction.
 
-### 🧠 Featured Projects  
+### 💼 Featured Projects 
+
+✅ [Bike Sales Analysis (2007-2011) Excel](https://github.com/AdeleyeAnne/Bike-Sales-Analysis)
+The goal  of the analysis is to explore, analyze, and visualize sales performance data to uncover insights across countries, products, and time periods
 
 ✅ [Amazon Product Review Analysis (Excel)](https://github.com/AdeleyeAnne/DSA-CAPSTONE-PROJECT.)  
 RetailTech is a company that provides e-commerce analytics solutions to sellers on platforms like Amazon . This project aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement
