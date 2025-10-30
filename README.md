@@ -39,6 +39,19 @@ As a certified Data Analyst (LinkedIn, Coursera, AltSchool Africa, Tech4Dev, Afr
 - Designed KPI dashboards to help review and Optimize Inventory Management
 - Derived insight that helps make data-driven decisions that improve operational efficiency, reduce delays, optimize shipping costs, and enhance overall customer satisfaction.
 
+### 🧠 Featured Projects  
+
+🔹 [Sales Analytics Dashboard](https://github.com/AdeleyeAnne/Sales-Analytics-Dashboard)  
+Interactive Power BI dashboard analyzing regional and product-level sales performance.  
+
+🔹 [HR Analytics Report](https://github.com/AdeleyeAnne/HR-Analytics-Dashboard)  
+Comprehensive HR insights showing workforce demographics, turnover rate, and performance analysis.  
+
+🔹 [Supply Chain Insights](https://github.com/AdeleyeAnne/SupplyChain-Insights)  
+Analyzed supply data to uncover efficiency bottlenecks and optimize logistics.
+
+-  [Kultra Mega Stores Inventory Analysis](https://github.com/AdeleyeAnne/CAPSTONE-PROJECT-SQL)
+This project aims at analyzing store and logistics inventory by importing dataset from excel file containing order data from 2009 to 2012 using structure query language (SQL), and analyzing the various parameters in the dataset i seek to extract business insights.which will enable me tell a compelling story from the insight and present key findings
 
 ---
 
