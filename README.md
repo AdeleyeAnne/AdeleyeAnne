@@ -34,6 +34,14 @@ As a certified Data Analyst (LinkedIn, Coursera, AltSchool Africa, Tech4Dev, Afr
 
 ---
 
+### 📈 Highlights
+- Uncovered hidden sales trends that enables customer loyalty, targeted marketing which allows business achieve sustainable growth and stronger profit performance
+- Designed KPI dashboards to help review and Optimize Inventory Management
+- Derived insight that helps make data-driven decisions that improve operational efficiency, reduce delays, optimize shipping costs, and enhance overall customer satisfaction.
+
+
+---
+
 ### 🎂 Beyond Analytics  
 Outside of data, I’m passionate about **baking and confectionery** 🍰.  
 I also value **personal development** and enjoy investing in self-growth and continuous improvement.  
