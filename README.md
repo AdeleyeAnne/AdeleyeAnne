@@ -59,6 +59,9 @@ This project aims at analyzing store and logistics inventory by importing datase
 ✅ [Furniture sales performance (Excel)](https://github.com/AdeleyeAnne/Furniture-sales-performance)
 This project analysis FURNITURE SALES PERFORMANCE (2017 VRS 2016), AN ANALYSIS COMPARING SALES, PROFIT AND TRENDShttps://github.com/AdeleyeAnne/Furniture-sales-performance
 
+✅[Fresh Mart Superstores Analysis Report](
+The main objective of this analysis is to gain insights into sales performance, customer segmentation, payment preferences, and time-based purchasing behavior across multiple supermarket branches
+
 ✅ [HR Analytics Report](https://github.com/AdeleyeAnne/HR-Attrition-Analytics-)  
 Comprehensive HR insights showing workforce demographics, turnover rate, and performance analysis.  
 
